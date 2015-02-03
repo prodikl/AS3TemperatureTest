@@ -9,7 +9,7 @@ package
 		
 		public function Test() 
 		{
-			trace('haha');
+			trace('haha lol');
 		}
 		
 	}
