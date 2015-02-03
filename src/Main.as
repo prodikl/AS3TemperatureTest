@@ -19,7 +19,7 @@ package
 		
 		public function Main():void 
 		{
-			// 1
+			// Step 1
 			// create text inputs
 			var numberOfTemperatures:uint = 7;
 			for(var i:uint = 0; i < numberOfTemperatures; i++){
